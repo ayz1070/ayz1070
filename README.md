@@ -7,7 +7,7 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/flutter-9DCFFF.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/android-F7DF1E.svg?style=for-the-badge&logo=android&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
@@ -28,7 +28,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
 </div>
 
