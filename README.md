@@ -6,16 +6,11 @@
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/flutter-3DDC84?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/flutter-44D2F2?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp
 </div>
 
-<br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-</div>
 
 <br>
 
@@ -23,18 +18,13 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/dart-11557c?style=for-the-badge&logo=dart&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/kotlin-11557c.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/java-F22233?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/python-4480A6?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/dart-44D2F2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/kotlin-8A26A6.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
 </div>
 
-<br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
-</div>
 
 <br>
 
