@@ -1,4 +1,5 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayz1070&layout=레이아웃 스타일&theme=스타일)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayz1070&layout=compact&theme=tokyonight)
+
 
 
 
