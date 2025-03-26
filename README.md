@@ -8,6 +8,12 @@
 - 🚀 현재는 **Spring Boot, SQL**을 학습하며 풀스택 개발자로 성장 중입니다.
 - 📱 앱뿐만 아니라 **웹까지 대응하는 크로스 플랫폼 개발 경험**도 보유하고 있어요.
 
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayz1070&theme=radical&hide_border=true">
+</div>
+
 ---
 
 ## 🛠 Tech Stack
@@ -50,11 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ayz1070&show_icons=true&theme=radical">
 </div>
 
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayz1070&theme=radical&hide_border=true">
-</div>
 
 ## 🏆 GitHub Trophies
 
@@ -70,11 +71,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayz1070&layout=compact&theme=radical">
 </div>
 
----
-
-✨ **Flutter에서 시작해 백엔드까지!**  
-지속적으로 새로운 기술을 익히고, 다양한 프로젝트를 통해 성장하는 중입니다.  
-👀 더 많은 정보는 블로그에서 확인해보세요!
 
 ---
 
