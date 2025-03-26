@@ -1,11 +1,11 @@
 ## 🛠 Tech Stack 🛠
 **Frontend**
-- 🖥 **Flutter**: iOS, Android, Web을 지원하는 멀티 플랫폼 프레임워크  
-- 🎯 **Dart**: Flutter의 핵심 언어, null-safety 및 높은 생산성 제공  
+- 🖥 **Flutter**
+- 🎯 **Dart**  
 
 **Backend**
-- ⚡ **Spring Boot**: RESTful API 개발 및 비즈니스 로직 구축  
-- 🛢 **MySQL**: 관계형 데이터베이스 설계 및 운영  
+- ⚡ **Spring Boot**  
+- 🛢 **MySQL**  
 
 
 **Tools & Collaboration**
