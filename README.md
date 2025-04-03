@@ -35,9 +35,15 @@ Flutter 앱을 중심으로 **Spring Boot와 MySQL**을 학습하고 적용하�
 
 ## 🚀 Projects
 
-| 프로젝트 | 설명 | 기술 스택 |
+| 프로젝트 | 설명 | 기술 스택 | 기간 |
+|----------|------|-----------|-------|
+| 🛍 [코세틱](https://github.com/ayz1070/cosetic) (비공개) | Flutter 기반 맞춤 화장품 쇼핑몰 앱 | `Flutter`, `Dart`, `Firebase` | 2024.08 ~
+
+### 🚀 Projects(Personal)
+
+| 개인 프로젝트 | 설명 | 기술 스택 | 기간 |
 |----------|------|-----------|
-| 🛍 [코세틱](https://github.com/ayz1070/cosetic) | Flutter 기반 화장품 쇼핑몰 앱 개발 | `Flutter`, `Spring Boot`, `MySQL`, `Firebase` |
+| 🛍 [너티야](https://github.com/ayz1070/are-you-t) | Flutter 기반 MBTI 커뮤니티 앱 | `Flutter`, `Dart`, `Spring Boot`, `MYSQL` | 2025.02 ~
 
 ---
 
