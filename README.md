@@ -59,7 +59,7 @@ Flutter 앱을 중심으로 **Spring Boot와 MySQL**을 학습하고 적용하�
 
 | 개인 프로젝트 | 설명 | 기술 스택 | 기간 |
 |----------------|--------|-------------|--------|
-| 🧠 [YouMR]((https://github.com/ayz1070/youmr_v2)) |   | `Flutter`, `Dart`, `Spring Boot`, `MySQL` | 2025.02 ~
+| 🧠 [YouMR](https://github.com/ayz1070/youmr_v2) |   | `Flutter`, `Dart`, `Spring Boot`, `MySQL` | 2025.02 ~
 
 ---
 
