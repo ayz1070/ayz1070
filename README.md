@@ -1,11 +1,10 @@
-<h1 align="center">👩‍💻 Flutter 앱 개발자 1년 차</h1>
+<h1 align="center">👩‍💻 AI에 대체되지 않고, AI를 적극 활용하는 2년 차, 앱 개발자 입니다.</h1>
 
 <p align="center">
   Flutter로 앱 개발을 시작해 <strong>Spring Boot</strong>와 <strong>MySQL</strong>을 학습하며  
   서버 통신과 백엔드까지 이해하는 개발자로 성장 중입니다. 🚀
 </p>
 
----
 
 ## 👩‍💻 About Me
 
@@ -47,7 +46,7 @@ Flutter 앱을 중심으로 **Spring Boot와 MySQL**을 학습하고 적용하�
 
 ## 🚀 Projects
 
-### 📦 팀 프로젝트
+### 📦 Team Project
 
 | 프로젝트 | 설명 | 기술 스택 | 기간 |
 |----------|------|-----------|-------|
@@ -55,7 +54,7 @@ Flutter 앱을 중심으로 **Spring Boot와 MySQL**을 학습하고 적용하�
 
 ---
 
-### 💡 개인 프로젝트
+### 💡 Side Project
 
 | 개인 프로젝트 | 설명 | 기술 스택 | 기간 |
 |----------------|--------|-------------|--------|
@@ -89,5 +88,5 @@ Flutter 앱을 중심으로 **Spring Boot와 MySQL**을 학습하고 적용하�
 
 ## 📩 Contact Me
 
-- 📧 Email: [ayz1070@naver.com](mailto:ayz1070@naver.com)  
+- 📧 Email: [ayz1070@gmail.com](mailto:ayz1070@gmail.com)  
 - 📝 Blog: [개발 블로그](https://developer-comingsoon.tistory.com/)
