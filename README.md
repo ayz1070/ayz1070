@@ -1,6 +1,7 @@
 ## Hi there! 👋
 
 I'm a **Mobile Developer** with 1 year of Flutter experience.
+<br>
 Currently exploring Android development and XR technologies.
 
 <br>
