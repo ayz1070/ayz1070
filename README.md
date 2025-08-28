@@ -23,7 +23,7 @@ When I'm not coding, I enjoy playing electric guitar and performing in a band �
 ## 📦 Work Experience
 | Project | Period | Tech Stack | Description |
 |---------|-------------|------------|--------|
-| 🛍 [COSETIC](https://github.com/ayz1070/cosetic) (Private) | 2024.08 ~ 2025.05 | `Flutter`, `Firebase`, `Spring Boot`, `MariaDB`  | Custom cosmetics e-commerce app 
+| 🛍 [COSETIC](https://github.com/cosetic) (Private) | 2024.08 ~ 2025.05 | `Flutter`, `Firebase`, `Spring Boot`, `MariaDB`  | Custom cosmetics e-commerce app 
 
 
 <br>
