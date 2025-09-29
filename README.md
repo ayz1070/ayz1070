@@ -2,7 +2,7 @@
 
 I'm a **Mobile Developer** with 1 year of Flutter experience.
 <br>
-Currently exploring Android development and XR technologies.
+Currently exploring Android development.
 
 <br>
 When I'm not coding, I enjoy playing electric guitar and performing in a band 🎸
