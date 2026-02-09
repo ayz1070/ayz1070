@@ -24,7 +24,7 @@ When I'm not coding, I enjoy playing electric guitar and performing in a band ðŸ
 | Project | Period | Tech Stack | Description |
 |---------|-------------|------------|--------|
 | [COSETIC](https://github.com/cosetic) (Private) | 2024.08 ~ 2025.08 | `Flutter`, `Firebase`  | Custom cosmetics e-commerce app 
-| [Module-Link](https://github.com/modulelink) (Private) | 2025.12 ~ | `Flutter`, `Firebase`   | Linkcall app 
+| [Module-Link](https://github.com/modulelink) (Private) | 2025.12 ~ | `Flutter`, `Firebase`   | Linkcall app, Linkcall Companion app
 
 
 
